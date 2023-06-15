@@ -1,4 +1,4 @@
-En terminal vamos a instalar una dependencia que vamos a utilizar es la unica dentro de todo el proyecto, pero esto es para poder utilizar fetch dentro de node
+En la terminal de nuestro editor de código, vamos a instalar una dependencia que vamos a utilizar es la única dentro de todo el proyecto, pero esto es para poder utilizar fetch dentro de node
  
  - npm install node fetch
 
