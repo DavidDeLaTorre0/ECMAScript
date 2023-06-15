@@ -1,0 +1,27 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso Platzi - ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDeLaTorre0/ECMAScriptExplicado.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "David De La Torre",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DavidDeLaTorre0/ECMAScriptExplicado/issues"
+  },
+  "homepage": "https://github.com/DavidDeLaTorre0/ECMAScriptExplicado#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}

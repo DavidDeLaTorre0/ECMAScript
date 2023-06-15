@@ -1,0 +1,13 @@
+https://fakeapi.platzi.com/
+
+aqui se pueden poner en practica los ejercicios y las pruebas que queramos hacer, y tiene muchas carac interesantes.
+smula como funciona la api de un ecommerce vamos a poder obtener, guardar productos, usuarios, autentificacion, upload archivos, etc..
+
+mirarla y aprovecharla
+
+por ej:
+ https://api.escuelajs.co/api/v1/products
+ retorna una gran catidad de recursos
+
+
+ ver es13
