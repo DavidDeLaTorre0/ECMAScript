@@ -1,10 +1,5 @@
 DOCUMENTACION 
-    https://developer.mozilla.org/es/
-------------------------------------------
-Ver la ultimas actualizaciones de ECMASCRIPT 
-https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 
---------------------------------------------------------------
 Repositorios y Recursos (Muy bueno para estar al dia)
 https://github.com/tc39/ecma262#ecmascript
 
