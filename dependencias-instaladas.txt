@@ -1,5 +1,6 @@
 En terminal vamos a instalar una dependencia que vamos a utilizar es la unica dentro de todo el proyecto, pero esto es para poder utilizar fetch dentro de node
- npm install node fetch
+ 
+ - npm install node fetch
 
- utilizada para el archivo 01-top-level.. en es13 con products.js
+ Utilizada para el archivo 01-top-level.. en es13 con products.js
  Ya instalada utilizaremos esta libreria
